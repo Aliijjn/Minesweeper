@@ -16,7 +16,7 @@ You can mark a blank square by pressing the right mouse button
 
 ![afbeelding](https://github.com/user-attachments/assets/82793d49-f197-41c8-b39d-1c74d077df8f)
 
-Mistakes were made...
+Mistakes were made....
 
 ![afbeelding](https://github.com/user-attachments/assets/e3fa1688-91a8-4267-84b8-df6f533b024b)
 
