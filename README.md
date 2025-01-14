@@ -1,13 +1,13 @@
 # Minesweeper ⛏️🧨
 Welcome to Minesweeper! My take on the classic game, using my own basic graphics library built on top of `Windows.h`. When starting the game, you're prompted to select a field size and difficulty. You can either choose a premade setting or make a custom one. Then the game starts, and you're shown a blank mine field. Left-click a square to uncover it, and don't worry, the first move is always on an empty square. After that, you can start looking for mines and "flag" them by right-clicking on them, this will ensure that you don't accidentally blow yourself to bits. The game ends once you uncover all non-mines, or when you hit a mine. Enjoy!
 
-## What I learned from this project
+## What I learned from this project ✅
 - How to use and build upon the `Windows.h` API
 - How to parse, load and display images onto the screen
 - How to handle input from a mouse
 - Cleanly parsing user input in C++
 
-## Images
+## Images 📷
 A simple level with some revealed squares
 
 ![afbeelding](https://github.com/user-attachments/assets/e7398848-ecbd-4076-9e81-243da220c697)
